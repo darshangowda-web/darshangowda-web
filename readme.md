@@ -53,7 +53,7 @@ Git, GitHub, Pandas, NumPy, Excel, Linux, Documentation, Debugging workflows
 
 ## 📝 Publication — IEEE 2025
 
-### **Generative AI-Based Real-Time Drowsiness Detection and Alert System**
+### **Generative AI-Based Real-Time Drowsiness Detection and Alert System**  
 - Dual-model detection using **CNN/ResNet50 + 68-landmark tracking**
 - Robust under lighting/movement variations  
 - Auto-training pipeline to compare & deploy the best model  
@@ -80,44 +80,54 @@ Radar validation, clustering analysis, and Kalman-Filter tracking evaluation
 
 ---
 
-## 🧰 Python Projects (Older + Popular Repositories)
+## 🧰 Python Projects
 
 ### **📊 Restaurant Review Sentiment Analysis (ML Web App)**  
-Streamlit-based ML app that predicts review sentiment using NLP  
 🔗 https://github.com/darshangowda-web/Resturant-review-sentimental-analysis-using-machine-learning_01
 
 ### **💼 Startup Profit Prediction**  
-Multivariate regression model predicting startup success  
 🔗 https://github.com/darshangowda-web/Startup-Profit-Prediction
 
 ### **🎮 Madlibs Game**  
-Python-based interactive story generator  
 🔗 https://github.com/darshangowda-web/Madlibs
 
 ### **✂️🪨📄 Rock Paper Scissors**  
-CLI version of the classic game  
 🔗 https://github.com/darshangowda-web/Rock-paper-scissors
 
-### **🧪 Additional Python Scripts & Mini Projects**  
-Collection of basic-to-advanced Python practice projects  
-🔗 https://github.com/darshangowda-web?tab=repositories
+---
+
+## 🏆 Certifications (with Links)
+
+### **Automotive Radar — Udemy**  
+🔗 http://ude.my/UC-dcdc591a-65e7-4bcb-abe2-08850ae35d31
+
+### **Pointers and Memory in C: Build a Rocket Display Module — Coursera**  
+🔗 https://coursera.org/verify/Q26RBB32Z0R6
+
+### **Machine Learning & Deep Learning Projects with Python — Udemy**  
+🔗 http://ude.my/UC-4d5c10c3-43ec-4343-8acc-afc96ab73ab4
+
+### **Google Data Analytics — Coursera**  
+🔗 https://coursera.org/verify/professional-cert/KX4Q5VJB137D
 
 ---
 
-## 🏆 Certifications
-- Automotive Radar — Udemy  
-- Google Data Analytics — Coursera  
-- Machine Learning & Deep Learning Projects — Udemy  
-- C Pointers & Memory (Rocket Display Module) — Coursera  
+## 🌍 Volunteering Work (with Links)
 
----
+### **IEEE Reviewer — iSSSC 2025**  
+🔗 https://github.com/darshangowda-web/Volunteering_Certificates/blob/main/IEEE_Reviewer_iSSSC2025.pdf
 
-## 🌍 Volunteering
-- Reviewer — IEEE iSSSC 2025  
-- Reviewer — IEEE INDISCON 2025  
-- Assistant Guide — APS Polytechnic  
-- COVID-19 Relief Volunteer  
-- School Learning Support Volunteer  
+### **IEEE Reviewer — INDISCON 2025 (NIT Rourkela)**  
+🔗 https://github.com/darshangowda-web/Volunteering_Certificates/blob/main/INDISCON_IEEE_Reviewer_certificate.pdf
+
+### **Assistant Guide — APS Polytechnic**  
+🔗 https://github.com/darshangowda-web/Volunteering_Certificates/blob/main/Assistant%20guide.pdf
+
+### **COVID-19 Relief & Health Camp Volunteer**  
+🔗 https://github.com/darshangowda-web/Volunteering_Certificates/blob/main/volenteering_covid19.pdf
+
+### **School Learning Environment Support Volunteer (“School Bell” Campaign)**  
+🔗 https://github.com/darshangowda-web/Volunteering_Certificates/blob/main/schoolbell.pdf
 
 ---
 
