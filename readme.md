@@ -76,7 +76,7 @@ Implemented ALU, register file & control unit in Verilog
 
 ### **🚗 Advanced Radar System for Emergency Brake Assist**  
 Radar validation, clustering analysis, and Kalman-Filter tracking evaluation  
-🔗 GitHub: https://github.com/darshangowda-web/Advanced_Radar_System
+
 
 ---
 
@@ -141,3 +141,4 @@ Radar validation, clustering analysis, and Kalman-Filter tracking evaluation
 🌐 **github.com/darshangowda-web**
 
 Feel free to explore my repositories or reach out for collaborations!
+
