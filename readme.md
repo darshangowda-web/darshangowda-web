@@ -86,7 +86,7 @@ Radar validation, clustering analysis, and Kalman-Filter tracking evaluation
 🔗 https://github.com/darshangowda-web/Resturant-review-sentimental-analysis-using-machine-learning_01
 
 ### **💼 Startup Profit Prediction**  
-🔗 https://github.com/darshangowda-web/Startup-Profit-Prediction
+🔗 https://github.com/darshangowda-web/Startup-profit-prediction-using-multilinear-regression-main
 
 ### **🎮 Madlibs Game**  
 🔗 https://github.com/darshangowda-web/Madlibs
@@ -141,4 +141,5 @@ Radar validation, clustering analysis, and Kalman-Filter tracking evaluation
 🌐 **github.com/darshangowda-web**
 
 Feel free to explore my repositories or reach out for collaborations!
+
 
